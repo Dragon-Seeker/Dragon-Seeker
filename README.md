@@ -6,5 +6,4 @@ I am a Minecraft modder at heart with an affinity for creating various APIs to s
   
   ![stats](https://github-readme-stats.vercel.app/api?username=Dragon-Seeker&theme=github_dark&show_icons=true&hide=prs,issues&hide_border=true&border_radius=15)
   ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragon-Seeker&theme=github_dark&show_icons=true&hide=prs,issues&hide_border=true&border_radius=15)
-  
 </div>
